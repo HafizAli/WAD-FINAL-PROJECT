@@ -212,3 +212,7 @@ ul#fotr-ul5 {
     -moz-animation: spin .5s infinite linear;
     -webkit-animation: spin .5s infinite linear;
   }
+.main_heading
+{
+     font-family:cursive;
+}
